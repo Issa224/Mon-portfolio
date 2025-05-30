@@ -18,10 +18,10 @@ index.html
     <div class="section">
     <h2>Compétences</h2>
     <ul>
-      <li>IT Essentiel</li>
-      <li>Électronique</li>
-      <li>Bureautique</li>
-      <li>Introduction à la cybersécurité</li>
+      <li><strong>IT Essentiel</strong></li>
+      <li><strong>Électronique</strong></li>
+      <li><strong>Bureautique</strong></li>
+      <li><strong>Introduction à la cybersécurité</strong></li>
     </ul>
   </div>
     <div class="section">
