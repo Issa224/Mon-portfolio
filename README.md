@@ -14,7 +14,7 @@ index.html
   <div class="section">
     <h2>À propos</h2>
     <p>Je m'appelle <strong>Issa BAH</strong>, étudiant passionné en <strong> sciences informatiques.</strong> 
-       Curieux et motivé, je développe mes compétences en <strong>IT</strong>, <strong>électronique</strong>, <strong>bureautique</strong> et <strong>cybersécurité</strong>. Je travaille actuellement sur un projet de site WebCampus visant à faciliter l'accès à l'information académique, et à faciliter l'adaptation et la communication entre l'université et les etudiants.</p>
+       Curieux et motivé, je développe mes compétences en <strong>IT</strong>, <strong>électronique</strong>, <strong>bureautique</strong> et <strong>cybersécurité</strong>. Je travaille actuellement sur un projet de site WebCampus pour mon université visant à faciliter l'accès à l'information académique, et à faciliter l'adaptation et la communication entre l'université et les etudiants.</p>
   </div>
     <div class="section">
     <h2>Compétences</h2>
